@@ -1,6 +1,6 @@
 # Django Task API v2
 
-這是一個使用 Django REST Framework 建立的任務管理系統 API，支援完整的 CRUD 功能與進階查詢，適合作為後端學習與作品展示使用。
+這是一個使用 Django REST Framework 建立的任務管理系統 API，支援完整的 CRUD 功能與進階查詢
 
 ## 🧩 主要功能
 
