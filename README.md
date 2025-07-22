@@ -10,7 +10,7 @@
 - 📄 分頁功能（每頁筆數可調整）
 - 🔐 使用者與任務關聯（透過 ForeignKey）
 - 🛠 管理員後台（Django Admin）
-hardaway0117|123@gmail.com|0000
+superuser >> (http://127.0.0.1:8000/admin/)
 
 ## 📦 安裝步驟
 
